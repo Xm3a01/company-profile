@@ -47,3 +47,9 @@ Route::view('/dashboard' , 'dashboard.ar.dashboard');
 
 Route::resource('contacts','Contact\ContactController')->only(['store']);
 Route::post('contacts/ar','Contact\ContactController@storeAr')->name('contacts.store.ar');
+
+//company data
+
+Route::resource('teams','Team\TeamController')->except(['create']);
+Route::resource('products','Product\ProductController')->except(['create']);
+Route::resource('projects','Project\ProjectController')->except(['create']);
