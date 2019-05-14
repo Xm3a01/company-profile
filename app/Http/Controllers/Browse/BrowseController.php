@@ -40,11 +40,11 @@ class BrowseController extends Controller
    // English pages
     public function Enhome()
     {
-        $product = DB::table('products')->limit(4)->get();
-        $project = DB::table('projects')->limit(4)->get();
-        $team  = DB::table('teams')->limit(4)->get();
+        $products = DB::table('products')->limit(4)->get();
+        $projects = DB::table('projects')->limit(4)->get();
+        $teams  = DB::table('teams')->latest()->limit(4)->get();
 
-        return view('pages.en.index');
+        return view('pages.en.index')->withTeams($teams);
     }
 
     public function Enabout()

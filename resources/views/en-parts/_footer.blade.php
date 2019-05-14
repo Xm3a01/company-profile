@@ -13,18 +13,6 @@
           </div>
           
         </div>
-        <div class="col-md">
-          <div class="ftco-footer-widget mb-5 ml-md-4">
-            <h2 class="ftco-heading-2">Services</h2>
-            <ul class="list-unstyled">
-              <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Construction</a></li>
-              <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Renovation</a></li>
-              <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Painting</a></li>
-              <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Interior Design</a></li>
-              <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Exterior Design</a></li>
-            </ul>
-          </div>
-        </div>
         <div class="col-md-5">
           <!-- here but somethng -->
         </div>

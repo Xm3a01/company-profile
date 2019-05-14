@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row no-gutters d-flex align-items-center align-items-stretch">
             <div class="col-md-4 d-flex align-items-center py-4">
-                <a class="navbar-brand" href="index.html"><span class="flaticon-bee mr-1"></span>Mobashir.</a>
+                <a class="navbar-brand" href="/en-home"><img src="images/logo.jpg" alt="" class="img-logo"></a>
             </div>
             <div class="col-lg-8 d-block">
                 <div class="row d-flex">

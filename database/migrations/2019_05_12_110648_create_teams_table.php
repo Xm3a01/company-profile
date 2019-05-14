@@ -19,7 +19,11 @@ class CreateTeamsTable extends Migration
             $table->text('ar_specialization');
             $table->string('en_name');
             $table->text('en_specialization');
-            $table->string('photo');
+            $table->string('photo')->nullable();
+            $table->string('face')->nullable();
+            $table->string('insta')->nullable();
+            $table->string('google')->nullable();
+            $table->string('twit')->nullable();
             $table->timestamps();
         });
     }

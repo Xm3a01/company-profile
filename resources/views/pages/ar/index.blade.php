@@ -35,8 +35,8 @@
           <div class="container">
               <div class="row justify-content-center mb-5 pb-2">
         <div class="col-md-8 text-center heading-section ftco-animate">
-            <span class="subheading">الخدمات</span>
-          <h2 class="mb-4">خدماتنا</h2>
+            <span class="subheading">المنتجات</span>
+          <h2 class="mb-4">منتجات الشركه</h2>
           <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
         </div>
       </div>
@@ -47,7 +47,7 @@
                   <span class="flaticon-hook"></span>
             </div>
             <div class="media-body p-2 mt-3">
-              <h3 class="heading">Construction</h3>
+              <h3 class="heading"><a href="#">Construction</a></h3>
               <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
             </div>
           </div>      
@@ -58,7 +58,7 @@
                   <span class="flaticon-skyline"></span>
             </div>
             <div class="media-body p-2 mt-3">
-              <h3 class="heading">House Renovation</h3>
+              <h3 class="heading"><a href="#">House Renovation</a></h3>
               <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
             </div>
           </div>    
@@ -69,7 +69,7 @@
                   <span class="flaticon-stairs"></span>
             </div>
             <div class="media-body p-2 mt-3">
-              <h3 class="heading">Painting</h3>
+              <h3 class="heading"><a href="#">Painting</a></h3>
               <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
             </div>
           </div>      
@@ -80,7 +80,7 @@
                   <span class="flaticon-home"></span>
             </div>
             <div class="media-body p-2 mt-3">
-              <h3 class="heading">Architecture Design</h3>
+              <h3 class="heading"><a href="#">Architecture Design</a></h3>
               <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
             </div>
           </div>      
@@ -88,20 +88,6 @@
       </div>
           </div>
       </section>
-      
-   <section class="ftco-intro" style="background-image: url(images/bg_3.jpg);" data-stellar-background-ratio="0.5">
-          <div class="overlay"></div>
-          <div class="container">
-              <div class="row justify-content-center">
-                  <div class="col-md-9 text-center">
-                      <h2>Lets Build Your Dream Together</h2>
-                      <p>We can manage your dream building A small river named Duden flows by their place</p>
-                      <p class="mb-0"><a href="#" class="btn btn-primary px-4 py-3">Know more about us</a></p>
-                  </div>
-              </div>
-          </div>
-    </section>
-
 
     {{-- team --}}
       <section class="ftco-section">
@@ -315,46 +301,11 @@
   <section class="ftco-section testimony-section">
     <div class="container">
       <div class="row ftco-animate">
-          <div class="col-md-6 col-lg-6 col-xl-4">
-              <div class="heading-section ftco-animate">
-                <span class="subheading">Services</span>
-              <h2 class="mb-4">خدمات الخبره</h2>
-            </div>
-              <div class="services-flow">
-                  <div class="services-2 p-4 d-flex ftco-animate">
-                      <div class="icon">
-                          <span class="flaticon-engineer"></span>
-                      </div>
-                      <div class="text">
-                          <h3>Expert &amp; Professional</h3>
-                          <p>Separated they live in. A small river named Duden flows</p>
-                      </div>
-                  </div>
-                  <div class="services-2 p-4 d-flex ftco-animate">
-                      <div class="icon">
-                          <span class="flaticon-engineer-1"></span>
-                      </div>
-                      <div class="text">
-                          <h3>High Quality Work</h3>
-                          <p>Separated they live in. A small river named Duden flows</p>
-                      </div>
-                  </div>
-                  <div class="services-2 p-4 d-flex ftco-animate">
-                      <div class="icon">
-                          <span class="flaticon-engineer-2"></span>
-                      </div>
-                      <div class="text">
-                          <h3>24/7 Help Support</h3>
-                          <p>Separated they live in. A small river named Duden flows</p>
-                      </div>
-                  </div>
-              </div>
-          </div>
           <div class="col-xl-1 d-xl-block d-none"></div>
         <div class="col-md-6 col-lg-6 col-xl-7" style="direction:ltr;">
             <div class="heading-section ftco-animate mb-5">
-                <span class="subheading">اراء</span>
-              <h2 class="mb-4">رضاء العمله</h2>
+                <span class="subheading">الاخبار</span>
+              <h2 class="mb-4">اخر الاخبار</h2>
               <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
             </div>
           <div class="carousel-testimony owl-carousel">
